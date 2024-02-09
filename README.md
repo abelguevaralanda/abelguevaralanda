@@ -6,7 +6,7 @@
   <img align="center" alt="Abel's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
 
-<a href="https://www.linkedin.com/in/abel-guevara-landa/">
+<a href="www.linkedin.com/in/abelguevaralanda">
   <img align="center" alt="Abel's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 </div>
